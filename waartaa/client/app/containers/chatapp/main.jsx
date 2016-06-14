@@ -1,6 +1,6 @@
 import React from 'react';
-import ChatMenu from './chatmenu';
-import ChatRoom from './chatroom';
+import ChatMenu from './ChatMenu';
+import ChatRoom from './ChatRoom';
 
 var ChatApp = React.createClass({
     render: function() {

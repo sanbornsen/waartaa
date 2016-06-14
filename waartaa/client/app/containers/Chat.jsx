@@ -1,7 +1,7 @@
 import React from 'react';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import ChatApp from './chatapp/main';
+import ChatApp from './chatapp/Main';
 
 
 var Chat = React.createClass({

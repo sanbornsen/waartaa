@@ -1,6 +1,5 @@
 import { createStore, applyMiddleware, compose } from 'redux';
 import rootReducer from '../reducers';
-import { applyMiddleware } from 'redux';
 import oidcMiddleware from '../middleware/middleware.jsx';
 import DevTools from '../containers/DevTools.jsx';
 import SockJS from 'sockjs-client';
